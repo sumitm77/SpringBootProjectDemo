@@ -1,6 +1,6 @@
-package com.springBootProject.sumit.controller;
+package com.springbootproject.sumit.controller;
 
-import com.springBootProject.sumit.entities.Product;
+import com.springbootproject.sumit.entities.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.springBootProject.sumit.services;
+package com.springbootproject.sumit.services;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
@@ -11,4 +11,7 @@ public class Cat implements Animal{
     public String characteristics() {
         return "Meow";
     }
+
+
+
 }

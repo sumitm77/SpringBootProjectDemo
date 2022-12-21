@@ -1,7 +1,7 @@
-package com.springBootProject.sumit.controller;
+package com.springbootproject.sumit.controller;
 
-import com.springBootProject.sumit.entities.Book;
-import com.springBootProject.sumit.services.BookService;
+import com.springbootproject.sumit.entities.Book;
+import com.springbootproject.sumit.services.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

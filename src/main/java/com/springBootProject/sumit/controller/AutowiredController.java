@@ -1,8 +1,7 @@
-package com.springBootProject.sumit.controller;
+package com.springbootproject.sumit.controller;
 
-import com.springBootProject.sumit.services.Animal;
+import com.springbootproject.sumit.services.Animal;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

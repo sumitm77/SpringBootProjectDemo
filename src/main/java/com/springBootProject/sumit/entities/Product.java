@@ -1,4 +1,4 @@
-package com.springBootProject.sumit.entities;
+package com.springbootproject.sumit.entities;
 
 import org.springframework.stereotype.Service;
 

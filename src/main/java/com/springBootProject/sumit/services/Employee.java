@@ -1,4 +1,4 @@
-package com.springBootProject.sumit.services;
+package com.springbootproject.sumit.services;
 
 import lombok.Data;
 

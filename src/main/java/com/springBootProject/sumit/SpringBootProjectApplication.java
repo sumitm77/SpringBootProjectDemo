@@ -1,4 +1,4 @@
-package com.springBootProject.sumit;
+package com.springbootproject.sumit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
