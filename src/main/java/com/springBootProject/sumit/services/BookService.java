@@ -38,7 +38,7 @@ public class BookService {
         return book;
     }
 
-    // update book details
+    // update the book details
     public static void updateBook(Book book, int id) {
         list = list.stream().map(b -> {
             if (b.getId() == id) {
